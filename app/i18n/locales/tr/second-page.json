@@ -1,4 +1,15 @@
 {
   "title": "İkinci sayfadan merhaba!",
-  "back-to-home": "Ana sayfaya dön"
+  "back-to-home": "Ana sayfaya dön",
+    "logo":"logo",
+    "getStarted":"get started",
+    "arl":"Arapça",
+    "enl":"İngilizce",
+    "trl":"Türkçe",
+    "label":"langua",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "youtube": "YouTube"
+
+
 }

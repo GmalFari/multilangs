@@ -1,4 +1,16 @@
 {
   "title": "Hi from second page!",
-  "back-to-home": "Back to home"
+  "back-to-home": "Back to home",
+  "header": {
+    "logo":"logo",
+    "getStarted": "Get Started",
+    "arl":"Arabic",
+    "enl":"English",
+    "trl": "Turkish",
+    "label": "languages",
+    "facebook":"facebook",
+    "instegram":"instegram",
+    "youtube":"youtube"
+  
+  }
 }

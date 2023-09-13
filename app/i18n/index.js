@@ -11,7 +11,6 @@ const initI18next = async (lng, ns) => {
     .init(getOptions(lng, ns))
   return i18nInstance
 }
-
 export async function useTranslation(lng, ns, options = {}) {
   const i18nextInstance = await initI18next(lng, ns)
   return {
